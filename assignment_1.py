@@ -29,7 +29,7 @@ if num1 == num2 == num3:
     print("All three numbers have the same value.")
 
 elif num1 == num2 or num1 == num3 or num2 == num3:
-    print("Two (and only two) numbers have the same value.")
+    print("Two numbers have the same value.")
 
 else:
     print("All three numbers have different values.")
